@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the  [LICENSE.md](https://g
 
 ## [](https://github.com/onaseer07/MUA-BonApp#acknowledgments)Acknowledgments
 
--   Developed as part of the UT Coding Boot Camp challenge to apply modern web technologies skills in creating a full-stack application that solves the business problem. 
+-   Developed as part of the UT Coding Boot Camp challenge to apply modern web technology skills in creating a full-stack application that solves the business problem. 
