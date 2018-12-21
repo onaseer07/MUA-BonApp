@@ -1,4 +1,3 @@
-
 # MUA - Bon App: MERN Stack IoT Application
 Menu Updating App (MUA) enables SMB restaurant owner to create/edit categories of live digital menu, sort categories order with drag an drop on the web or tablet. Digital Menu update is now easier than before and this functionality puts the restaurant owner in the driving seat to manage what and in which order customer's should receive the presentation of the menu categories and/or items. It solves time to market reduction problem, custom menu cost and promotes NPS for offering promotions and consistent customer's experience across all locations remote controlling from a central office.
 
@@ -40,10 +39,6 @@ You must also create an application in Google's Firebase console and follow the 
 -   **Mohammed Chawla**  -  [Github](https://github.com/mochawla)
 
 
-## [](https://github.com/onaseer07/MUA-BonApp#license)License
-
-This project is licensed under the MIT License - see the  [LICENSE.md](https://github.com/dvnnorth/pixel-forest/blob/master/LICENSE.md)  file for details
-
 ## [](https://github.com/onaseer07/MUA-BonApp#acknowledgments)Acknowledgments
 
--   Developed as part of the UT Coding Boot Camp challenge to apply modern web technology skills in creating a full-stack application that solves the business problem. 
+-   Developed as part of the UT Coding Boot Camp challenge to apply modern web technologies skills in creating a full-stack application that solves the business problem. 
